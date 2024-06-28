@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
-Hello! I'm **[Your Name]**, a passionate developer who loves to create and innovate. Here, you'll find some of my projects and contributions to the open-source community.
+Hello! I'm **[PG DEV]**, a passionate developer who loves to create and innovate. Here, you'll find some of my projects and contributions to the open-source community.
 
 ## 🚀 About Me
 
@@ -30,7 +30,7 @@ Hello! I'm **[Your Name]**, a passionate developer who loves to create and innov
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkGamerEzz&show_icons=true&theme=
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkGamerEzz&show_icons=true&theme=radical)
 
 
 ⭐️ From [ParkGamerEzz](https://github.com/ParkGamerEzz)
